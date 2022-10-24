@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\bin\Debug\netcoreapp3.1\ex.1.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\bin\Debug\netcoreapp3.1\ex.1.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\bin\Debug\netcoreapp3.1\ex.1.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\bin\Debug\netcoreapp3.1\ex.1.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\bin\Debug\netcoreapp3.1\ex.1.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\bin\Debug\netcoreapp3.1\ex.1.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\obj\Debug\netcoreapp3.1\ex.1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\obj\Debug\netcoreapp3.1\ex.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\obj\Debug\netcoreapp3.1\ex.1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\obj\Debug\netcoreapp3.1\ex.1.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\obj\Debug\netcoreapp3.1\ex.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\obj\Debug\netcoreapp3.1\ex.1.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\obj\Debug\netcoreapp3.1\ex.1.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\07 - Mid Exam 23.10\MidExam23_10_22\ex.1\obj\Debug\netcoreapp3.1\ex.1.genruntimeconfig.cache
